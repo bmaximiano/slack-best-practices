@@ -9,8 +9,8 @@ _Use Slack responsible._
 * Don't double post in channels. 
 
 ## Your profile
-* Upload an avatar. It helps others identify you if you haven't met in person.
-* Keep your time zone up to date.
+** Upload an avatar. It helps others identify you if you haven't met in person.
+  * Keep your time zone up to date.
 * Update your Do Not Disturb times so others know when to contact you.
 
 ## Media
